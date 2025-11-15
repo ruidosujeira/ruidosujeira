@@ -1,4 +1,4 @@
-# Oi 👋, eu sou o ruidosujeira!
+# Sou o Rocco!
 
 [![Profile views](https://visitor-badge.laobi.icu/badge?page_id=ruidosujeira.ruidosujeira)](https://github.com/ruidosujeira)
 [![Visitors](https://komarev.com/ghpvc/?username=ruidosujeira&color=blue)](https://github.com/ruidosujeira)
